@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://github.com/OmarAEH/OmarAEH/blob/master/octo.gif" alt="Logo" width="150" height="150" />
+<img src="https://github.com/OmarAEH/OmarAEH/blob/main/octo.gif" alt="Logo" width="150" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
-<img src="https://github.com/OmarAEH/OmarAEH/blob/master/typer.gif" alt="Omar AbuELHaj Typer" />
+<img src="https://github.com/OmarAEH/OmarAEH/blob/main/typer.gif" alt="Omar AbuELHaj Typer" />
 </div>
 <br/>
 
@@ -16,7 +16,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/OmarAEH/OmarAEH/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/OmarAEH/OmarAEH/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
@@ -25,7 +25,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/OmarAEH/OmarAEH/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/OmarAEH/OmarAEH/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 
@@ -41,7 +41,7 @@
   
     
 <div align="center">
-<img src="https://github.com/OmarAEH/OmarAEH/blob/master/connected.gif" alt="Omar AEH" width="350" height="200" />
+<img src="https://github.com/OmarAEH/OmarAEH/blob/main/connected.gif" alt="Omar AEH" width="350" height="200" />
 </div>
 
 
